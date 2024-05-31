@@ -1,0 +1,3 @@
+//Shine::get
+1D03EC MOV X1, X19
+1D03F4 BL damagePlayerOnShineGet
